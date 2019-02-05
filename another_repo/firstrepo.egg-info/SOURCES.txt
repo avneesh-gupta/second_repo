@@ -1,0 +1,6 @@
+execuatable_file
+setup.py
+firstrepo.egg-info/PKG-INFO
+firstrepo.egg-info/SOURCES.txt
+firstrepo.egg-info/dependency_links.txt
+firstrepo.egg-info/top_level.txt
