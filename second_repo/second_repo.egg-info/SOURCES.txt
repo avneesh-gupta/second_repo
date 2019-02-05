@@ -1,0 +1,7 @@
+README.md
+exe_file
+setup.py
+second_repo.egg-info/PKG-INFO
+second_repo.egg-info/SOURCES.txt
+second_repo.egg-info/dependency_links.txt
+second_repo.egg-info/top_level.txt
