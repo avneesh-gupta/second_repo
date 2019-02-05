@@ -3,7 +3,7 @@ import json
 
 
 def greet(obj):
-    print("hello ",obj)
+    print("hello ",obj, "!")
 
 
 def print_all(obj):
